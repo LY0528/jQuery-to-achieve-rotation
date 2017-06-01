@@ -28,7 +28,7 @@ $(function() {
         })
       }
     }
-    //鼠标移入的时候让翻页按钮显示出来
+  //鼠标移入的时候让翻页按钮显示出来
   mouseEvent('mousemove', 'block');
   //鼠标离开的时候让翻页按钮隐藏
   mouseEvent('mouseleave', 'none');
